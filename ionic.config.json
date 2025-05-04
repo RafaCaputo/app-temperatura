@@ -1,0 +1,7 @@
+{
+  "name": "conversor-temperatura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
